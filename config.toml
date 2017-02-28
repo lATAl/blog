@@ -1,0 +1,21 @@
+baseurl = "http://anhtuan.me"
+languageCode = "vi"
+title = "Tuấn"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/lATAl\">Tuấn</a> 2017"
+disqusShortname = "shortname"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile", "elixir", "javascript"]
+
+[[params.social]]
+url = "https://github.com/lATAl"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
