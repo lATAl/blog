@@ -1,4 +1,4 @@
-baseurl = "http://anhtuan.me"
+baseurl = "/"
 languageCode = "vi"
 title = "Tuấn"
 theme = "hemingway"
